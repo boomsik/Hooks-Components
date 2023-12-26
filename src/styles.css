@@ -7,6 +7,12 @@
   align-items: center;
 }
 
+.box_counter {
+  border: 1px solid orange;
+  padding: 20px;
+  margin-top: 20px;
+}
+
 .box_form {
   border-style: solid;
   margin-top: 30px;
