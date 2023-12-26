@@ -1,4 +1,35 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box_form {
+  border-style: solid;
+  margin-top: 30px;
+  width: 600px;
+}
+
+.form {
+  margin-top: 20px;
+}
+
+.todo_box {
+  margin-top: 20px;
+  border-style: solid;
+  border-color: orange;
+  border-width: 1px;
+}
+
+.todo_value {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.todo_btn {
+  margin-right: 10px;
 }
